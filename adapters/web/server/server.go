@@ -9,6 +9,7 @@ import (
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 
+	"github.com/JoaoLeonello/hex-arch-studies/adapters/web/handler"
 	"github.com/JoaoLeonello/hex-arch-studies/application"
 )
 
